@@ -1,2 +1,2 @@
 # ocaml
-My solutions to Ocaml problems from my "Logics and Discrete Structures" lab.
+My solutions to Ocaml problems from my "Logic and Discrete Structures" lab.
