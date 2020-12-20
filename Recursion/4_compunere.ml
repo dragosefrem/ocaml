@@ -1,0 +1,1 @@
+let rec comp n f x = if n = 0 then (f x) else comp (n - 1) f (f x);;
